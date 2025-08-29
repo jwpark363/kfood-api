@@ -11,3 +11,6 @@ wheels/
 
 ## 현재 사용하지 않는 모델
 old/
+## 이미지 파일
+*.zip
+train/kfood_original
